@@ -1,0 +1,9 @@
+tensorflow
+keras-tuner
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask_restful
+joblib
