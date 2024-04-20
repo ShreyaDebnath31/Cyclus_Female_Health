@@ -1,5 +1,7 @@
 tensorflow
 keras-tuner
+uvicorn
+pydantic
 pandas
 numpy
 matplotlib
