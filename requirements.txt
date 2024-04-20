@@ -1,9 +1,9 @@
-tensorflow
+tensorflow==2.15.0
 keras-tuner
 pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
+scikit-learn==1.2.2
 flask_restful
 joblib
