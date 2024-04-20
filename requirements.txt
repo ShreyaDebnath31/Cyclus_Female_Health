@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn==1.2.2
+scikit-learn
 flask_restful
 joblib
