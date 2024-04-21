@@ -1,11 +1,5 @@
-tensorflow
-keras-tuner
-uvicorn
-pydantic
 pandas
 numpy
-matplotlib
-seaborn
 scikit-learn
 flask_restful
 joblib
