@@ -8,7 +8,7 @@ app = Flask(__name__)
 api = Api(app)
 
 # Load the trained model
-with open('model_cyclus_17apr.pkl', 'rb') as file:
+with open('model_cyclus_21apr.pkl', 'rb') as file:
     model = joblib.load(file)
 
 class PredictOvulation(Resource):
