@@ -64,4 +64,4 @@ class PredictOvulation(Resource):
 api.add_resource(PredictOvulation, '/predict_ovulation')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True,host='0.0.0.0')
